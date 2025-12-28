@@ -24,7 +24,7 @@ This CFG will help you to customize ur crosshair in CS2.
 <blockquote><p><i>CGap[num]</i> - <code>(0 to -5)</code></p>
 <p><i>CSize[num]</i> - <code>(0 / 0.5 to 5)</code></p>
 <p><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1 or 2)</code></p>
-<p><i>CStyle[num]</i> - <code>(1 to 5)</i></p>
+<p><i>CStyle[num]</i> - <code>(1 to 5)</code></p>
 <p><i>A[num]</i> - <code>(1 to 255)</code></p>
 <p><i>CDot[num]</i> - <code>(0 or 1)</code></p>
 <p><i>CT[num]</i> - <code>(0 or 1)</code></p>
