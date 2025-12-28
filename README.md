@@ -15,8 +15,9 @@ This CFG will help you to customize ur crosshair in CS2.
 <p><i>Outline</i> - <code>toggles outline</code></p>
 <p><i>CFF</i> - <code>toggles Frendly warning</code></p>
 <p><i>CGapUWV</i> - <code>toggles use weapon value</code></p>
+<p><i>CCol[num]</i> - <code>toggles color (1-5)</code></p>
 
 <br><i>SCSize</i> - <code>toggles sniper crosshair (1, 2)</code>
 </blockquote>
 
-<br> Easy RGBA --> https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair
+<br> Easy RGBA Control --> https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair
