@@ -18,3 +18,5 @@ This CFG will help you to customize ur crosshair in CS2.
 
 <br><i>SCSize</i> - <code>toggles sniper crosshair (1, 2)</code>
 </blockquote>
+
+<br> Easy RGBA --> https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair
