@@ -18,6 +18,7 @@ This CFG will help you to customize ur crosshair in CS2.
 <br><i>Outline[num] or Outline</i> - <code>(0 or 1) turning off/on outline</code>
 <br><i>CFF[num] or CFF</i> - <code>(0 or 1) Frendly warning</code>
 <br><i>CGapUWV[num] or CGapUWV</i> - <code>(0 or 1) Use Weapon Value</code>
+<br><i>CRecoil[num] or CRecoil</i> - <code>(0 or 1) Follow recoil</code>
 <br><i>CCol[num]</i> - <code>(0 to 5) Colors 0(red) 1(green) 2(yellow) 3(blue) 4(cyan) 5(custom)</code>
 
 <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code></blockquote>
