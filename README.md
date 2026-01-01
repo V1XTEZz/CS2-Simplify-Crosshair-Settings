@@ -36,13 +36,14 @@ This CFG will help you to customize ur crosshair in CS2.
   </blockquote>
 </p>
 <h3>GC Delay:</h3>
+<h6>Only after downloading DOC (Delay of Crosshair)</h6>
 <p>
   <blockquote>
-    <i>CGDFake/CGDDecoy</i> - <code>(now only 0 available)</code>
-    <br><i>CGDGrenade/CGDExplosive/CGDHE</i> - <code>(now only 0 available)</code>
-    <br><i>CGDMoly/CGDFire/CGDMolotov</i> - <code>(now only 0 available)</code>
-    <br><i>CGDFlash/CGDFlashbang</i> - <code>(now only 0 available)</code>
-    <br><i>CGDSmoke</i> - <code>(now only 0 available)</code>
+    <i>CGDFake/CGDDecoy</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDGrenade/CGDExplosive/CGDHE</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDMoly/CGDFire/CGDMolotov</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDFlash/CGDFlashbang</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDSmoke</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
   </blockquote>
 </p>
 
