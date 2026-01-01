@@ -25,6 +25,15 @@ This CFG will help you to customize ur crosshair in CS2.
   <br><i>CCol[num]</i> - <code>(0 to 5) Colors 0(red) 1(green) 2(yellow) 3(blue) 4(cyan) 5(custom)</code>
 
   <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code></blockquote>
+<h3>Settings for style 2</h3>
+<p>
+  <blockquote>
+    <i>CDAInner[num]</i> - <code>(0 to 1 +0.1 only) Alpha for inner crosshair</code>
+    <br><i>CDAOuter[num]</i> - <code>(0 to 1 +0.1 only) Alpha for outer crosshair</code>
+    <br><i>CDDist[num]</i> - <code>(0 to 1 +0.1 only) Max distance split ratio</code>
+    <br><i>CDSplit[num]</i> - <code>(0 to 5) Split distance</code>
+  </blockquote>
+</p>
 <h3>Grenade Crosshair:</h3>
 <p>
   <blockquote>
