@@ -12,7 +12,7 @@ This CFG will help you to customize ur crosshair in CS2.
   <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1 or 2) Thickness/width of crosshair</code>
 
   <p>
-    <br><i>CStyle[num]</i> - (1 to 5) Changing style of crosshair, 
+    <br><i>CStyle[num]</i> - <code>(1 to 5) Changing style of crosshair</code>, 
     <br><i>1 (old crosshair) 2(double crosshair) 3(classic dynamic) 4 (static) 5(shots dynamic only)</i>
   </p>
 
