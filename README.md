@@ -18,7 +18,7 @@ This CFG will help you to customize ur crosshair in CS2.
 
   <br><i>CDot[num] or CDot</i> - <code>(0 or 1)turning off/on dot for crosshair</code>
   <br><i>CT[num] or CT</i> - <code>(0 or 1)turning off/on T style crosshair</code>
-  <br><i>Outline[num] or Outline</i> - <code>(0 or 1) turning off/on outline</code>
+  <br><i>Outline[num] or Outline (or COutline)</i> - <code>(0 or 1) turning off/on outline</code>
   <br><i>CFF[num] or CFF</i> - <code>(0 or 1) Frendly warning</code>
   <br><i>CGapUWV[num] or CGapUWV</i> - <code>(0 or 1) Use Weapon Value</code>
   <br><i>CRecoil[num] or CRecoil</i> - <code>(0 or 1) Follow recoil</code>
