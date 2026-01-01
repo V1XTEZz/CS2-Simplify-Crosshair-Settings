@@ -28,10 +28,10 @@ This CFG will help you to customize ur crosshair in CS2.
 <h3>Grenade Crosshair:</h3>
 <p>
   <blockquote>
-    <i>CGFake/CGDecoy</i> - <code>(0 or 1) and toggle</code>
-    <br><i>CGGrenade/CGExplosive/CGHE</i> - <code>(0 or 1) and toggle</code>
-    <br><i>CGMoly/CGFire/CGMolotov</i> - <code>(0 or 1) and toggle</code>
-    <br><i>CGFlash/CGFlashbang</i> - <code>(0 or 1) and toggle</code>
+    <i>CGFake / CGDecoy</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGGrenade / CGExplosive / CGHE</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGMoly / CGFire / CGMolotov</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGFlash / CGFlashbang</i> - <code>(0 or 1) and toggle</code>
     <br><i>CGSmoke</i> - <code>(0 or 1) and toggle</code>
   </blockquote>
 </p>
@@ -39,10 +39,10 @@ This CFG will help you to customize ur crosshair in CS2.
 <h6>Only after downloading DOC (Delay of Crosshair)</h6>
 <p>
   <blockquote>
-    <i>CGDFake/CGDDecoy</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
-    <br><i>CGDGrenade/CGDExplosive/CGDHE</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
-    <br><i>CGDMoly/CGDFire/CGDMolotov</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
-    <br><i>CGDFlash/CGDFlashbang</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <i>CGDFake / CGDDecoy</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDGrenade / CGDExplosive / CGDHE</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDMoly / CGDFire / CGDMolotov</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDFlash / CGDFlashbang</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
     <br><i>CGDSmoke</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
   </blockquote>
 </p>
