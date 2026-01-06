@@ -9,7 +9,7 @@ This CFG will help you to customize ur crosshair in CS2.
 <blockquote>
   <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code>
   <br><i>CSize[num]</i> - <code>(0 to 10) Size of crosshair [0.5 until 5]</code>
-  <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1 or 2) Thickness/width of crosshair</code>
+  <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code>
 
   <p>
     <br><i>CStyle[num]</i> - <code>(1 to 5) Changing style of crosshair</code>, 
