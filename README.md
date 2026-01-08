@@ -16,12 +16,12 @@ This CFG will help you to customize ur crosshair in CS2.
     <br><i>1 (old crosshair) 2(double crosshair) 3(classic dynamic) 4 (static) 5(shots dynamic only)</i>
   </p>
 
-  <br><i>CDot[num] or CDot</i> - <code>(0 or 1)turning off/on dot for crosshair</code>
-  <br><i>CT[num] or CT</i> - <code>(0 or 1)turning off/on T style crosshair</code>
-  <br><i>Outline[num] or Outline (or COutline)</i> - <code>(0 or 1) turning off/on outline</code>
-  <br><i>CFF[num] or CFF</i> - <code>(0 or 1) Frendly warning</code>
-  <br><i>CGapUWV[num] or CGapUWV</i> - <code>(0 or 1) Use Weapon Value</code>
-  <br><i>CRecoil[num] or CRecoil</i> - <code>(0 or 1) Follow recoil</code>
+  <br><i>CDot[0 or 1]</i> - <code>(0 or 1)turning off/on dot for crosshair</code>
+  <br><i>CT[0 or 1]</i> - <code>(0 or 1)turning off/on T style crosshair</code>
+  <br><i>Outline[0 or 1] or COutline</i> - <code>(0 or 1) turning off/on outline</code>
+  <br><i>CFF[0 or 1]</i> - <code>(0 or 1) Friendly warning</code>
+  <br><i>CGapUWV[0 or 1]</i> - <code>(0 or 1) Use Weapon Value</code>
+  <br><i>CRecoil[0 or 1]</i> - <code>(0 or 1) Follow recoil</code>
   <br><i>CCol[num]</i> - <code>(0 to 5) Colors 0(red) 1(green) 2(yellow) 3(blue) 4(cyan) 5(custom)</code>
 
   <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code></blockquote>
@@ -55,5 +55,7 @@ This CFG will help you to customize ur crosshair in CS2.
     <br><i>CGDSmoke</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
   </blockquote>
 </p>
+
+<br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
 
 <br>Contact email: originalzent1em@gmail.com</p>
