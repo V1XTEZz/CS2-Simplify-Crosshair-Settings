@@ -1,0 +1,61 @@
+# CS2-Simplify-Crosshair-Settings
+This CFG will help you to customize ur crosshair in CS2.
+
+<p>Download the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre>
+<br>Next U can bind it or copy the [Alias SCS] to ur config and after just write in console SCS.
+<br>To control Alpha & RGB download Easy RGBA > https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair</p>
+
+<h3>The Settings:</h3>
+<blockquote>
+  <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code>
+  <br><i>CSize[num]</i> - <code>(0 to 10) Size of crosshair [0.5 until 5]</code>
+  <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code>
+
+  <p>
+    <br><i>CStyle[num]</i> - <code>(1 to 5) Changing style of crosshair</code>, 
+    <br><i>1 (old crosshair) 2(double crosshair) 3(classic dynamic) 4 (static) 5(shots dynamic only)</i>
+  </p>
+
+  <br><i>CDot[0 or 1]</i> - <code>turning off/on dot for crosshair (togglable)</code>
+  <br><i>CT[0 or 1]</i> - <code>turning off/on T style crosshair (togglable)</code>
+  <br><i>Outline[0 or 1] or COutline</i> - <code>turning off/on outline (togglable)</code>
+  <br><i>CFF[0 or 1]</i> - <code>Friendly warning (togglable)</code>
+  <br><i>CGapUWV[0 or 1]</i> - <code>Use Weapon Value (togglable)</code>
+  <br><i>CRecoil[0 or 1]</i> - <code>Follow recoil (togglable)</code>
+  <br><i>CCol[num]</i> - <code>(0 to 5) Colors 0(red) 1(green) 2(yellow) 3(blue) 4(cyan) 5(custom)</code>
+
+  <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code></blockquote>
+<h3>Settings for style 2</h3>
+<p>
+  <blockquote>
+    <i>CDAInner[num]</i> - <code>(0 to 1 +0.1 only) Alpha for inner crosshair</code>
+    <br><i>CDAOuter[num]</i> - <code>(0 to 1 +0.1 only) Alpha for outer crosshair</code>
+    <br><i>CDDist[num]</i> - <code>(0 to 1 +0.1 only) Max distance split ratio</code>
+    <br><i>CDSplit[num]</i> - <code>(0 to 5) Split distance</code>
+  </blockquote>
+</p>
+<h3>Grenade Crosshair:</h3>
+<p>
+  <blockquote>
+    <i>CGFake / CGDecoy</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGGrenade / CGExplosive / CGHE</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGMoly / CGFire / CGMolotov</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGFlash / CGFlashbang</i> - <code>(0 or 1) and toggle</code>
+    <br><i>CGSmoke</i> - <code>(0 or 1) and toggle</code>
+  </blockquote>
+</p>
+<h3>GC Delay:</h3>
+<h6>Only after downloading DOC (Delay of Crosshair)</h6>
+<p>
+  <blockquote>
+    <i>CGDFake / CGDDecoy</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDGrenade / CGDExplosive / CGDHE</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDMoly / CGDFire / CGDMolotov</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDFlash / CGDFlashbang</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+    <br><i>CGDSmoke</i> - <code>(0 / 0.2 / 0.5 / 1 / 1.5 / 2 / 2.5 / 3 / 4 / 5)</code>
+  </blockquote>
+</p>
+
+<br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
+
+<br>Contact email: originalzent1em@gmail.com</p>
