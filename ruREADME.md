@@ -1,6 +1,8 @@
 # CS2-Simplify-Crosshair-Settings
 Этот CFG поможет вам настроить прицел в CS2.
 
+<br>Original version: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/README.md
+
 <p>Скачайте config и поместите его по адресу: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre>
 <br>Далее вы можете назначить ему прицел или скопировать [Alias ​​SCS "exec SCS"] в ваш config, а затем просто написать в консоли SCS.
 <br>Для управления альфа-каналом и RGB скачайте Easy RGBA > https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair</p>
