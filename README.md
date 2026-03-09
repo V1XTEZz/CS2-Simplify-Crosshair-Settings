@@ -2,13 +2,13 @@
 This CFG will help you to customize ur crosshair in CS2.
 
 <p>Download the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre>
-<br>Next U can bind it or copy the [Alias SCS] to ur config and after just write in console SCS.
+<br>Next U can bind it or copy the [Alias SCS "exec SCS"] to ur config and after just write in console SCS.
 <br>To control Alpha & RGB download Easy RGBA > https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair</p>
 
 <h3>The Settings:</h3>
 <blockquote>
   <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code>
-  <br><i>CSize[num]</i> - <code>(0 to 10) Size of crosshair [0.5 until 5]</code>
+  <br><i>CSize[num]</i> - <code>(0 to 10) Size of crosshair [+0.5 until 5]</code>
   <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code>
 
   <p>
@@ -58,4 +58,4 @@ This CFG will help you to customize ur crosshair in CS2.
 
 <br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
 
-<br>Contact email: originalzent1em@gmail.com</p>
+<br>Contact email: contact_v1xtezz@proton.me</p>
