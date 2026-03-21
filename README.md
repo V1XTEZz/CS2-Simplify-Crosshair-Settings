@@ -3,10 +3,16 @@ This CFG will help you to customize ur crosshair in CS2.
 
 <br>Для русских версия тут: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/ruREADME.md
 
-<p>Download the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre>
+<p>Download and <b>rename</b> the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre>
 <br>Next U can bind it or copy the [Alias SCS "exec SCS"] to ur config and after just write in console SCS.
 <br>To control Alpha & RGB download Easy RGBA > https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair</p>
 
+<h3>Get settings:</h3>
+<blockquote>
+  <b>CInfo</b> - <code>to get MAIN current settings</code>
+  <br><b>CInfo+</b> - <code>to get ALL current settings</code>
+  <br>Add <b>V</b> to command to get current value
+</blockquote>
 <h3>The Settings:</h3>
 <blockquote>
   <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code>
