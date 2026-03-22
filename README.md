@@ -7,7 +7,7 @@ This CFG will help you to customize ur crosshair in CS2.
 <br>Next U can bind it or copy the [Alias SCS "exec SCS"] to ur config and after just write in console SCS.
 <br>To control Alpha & RGB download Easy RGBA > https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair</p>
 
-<h3>Get settings:</h3>
+<h3>Check values:</h3>
 <blockquote>
   <b>CInfo</b> - <code>to get MAIN current settings</code>
   <br><b>CInfo+</b> - <code>to get ALL current settings</code>
