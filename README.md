@@ -1,4 +1,4 @@
-# CS2-Simplify-Crosshair-Settings
+# CS2-Simplify-Crosshair-Settings-v2
 This CFG will help you to customize ur crosshair in CS2.
 
 <br>Для русских версия тут: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/ruREADME.md
