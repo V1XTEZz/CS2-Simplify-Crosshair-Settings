@@ -1,4 +1,4 @@
-# CS2-Simplify-Crosshair-Settings
+# CS2-Simplify-Crosshair-Settings-v2
 Этот CFG поможет вам настроить прицел в CS2.
 
 <br>Original version: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/README.md
@@ -7,6 +7,12 @@
 <br>Далее вы можете назначить ему прицел или скопировать [Alias ​​SCS "exec SCS"] в ваш config, а затем просто написать в консоли SCS.
 <br>Для управления альфа-каналом и RGB скачайте Easy RGBA > https://github.com/V1XTEZz/CS2-Easy-Control-RGBA-Crosshair</p>
 
+<h3>Проверить значение:</h3>
+<blockquote>
+  <b>CInfo</b> - <code>чтобы получить ОСНОВНЫЕ текущие значения</code>
+  <br><b>CInfo+</b> - <code>чтобы получить ВСЕ текущие значения</code>
+  <br>Добавьте <b>V</b> к команде чтобы получить текущее значение
+</blockquote>
 <h3>Настройки:</h3>
 <blockquote>
   <i>CGap[num]</i> - <code>(5 до -5) Расстояние между линиями прицела</code>
