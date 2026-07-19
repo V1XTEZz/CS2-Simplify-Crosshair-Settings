@@ -1,7 +1,7 @@
 # CS2-Simplify-Crosshair-Settings-v2
 This CFG will help you to customize ur crosshair in CS2.
 
-<br>Для русских версия тут: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/ruREADME.md
+<br>Русская версия: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/ruREADME.md
 
 <p>Download and <b>rename</b> the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre>
 <br>Next U can bind it or copy the [Alias SCS "exec SCS"] to ur config and after just write in console SCS.
