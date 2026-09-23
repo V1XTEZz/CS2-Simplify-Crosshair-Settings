@@ -1,4 +1,4 @@
-# CS2-Simplify-Crosshair-Settings-v2
+# CS2-Simplify-Crosshair-Settings-v3
 This CFG will help you to customize ur crosshair in CS2.
 
 <br>Русская версия: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/ruREADME.md
@@ -15,16 +15,17 @@ This CFG will help you to customize ur crosshair in CS2.
 </blockquote>
 <h3>The Settings:</h3>
 <blockquote>
-  <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code>
-  <br><i>CSize[num]</i> - <code>(0 to 10) Size of crosshair [+0.5 until 5]</code>
+  <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code> <b>(After update "Rush Hour", VALVe added </b><code>_</code><b> before </b><code>gap</code><b>)</b>
+  <br><i>CSize[num]</i> - <code>(0 to 10) Size/length of crosshair [+0.5 until 5]</code> <b>(After update "Rush Hour", VALVe changed </b><code>size</code><b> to </b><code>length</code><b>)</b>
   <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code>
 
-  <p>
-    <br><i>CStyle[num]</i> - <code>(1 to 5) Changing style of crosshair</code>, 
-    <br><i>1 (old crosshair) 2(double crosshair) 3(classic dynamic) 4 (static) 5(shots dynamic only)</i>
-  </p>
-
-  <br><i>CDot[0 or 1]</i> - <code>turning off/on dot for crosshair (togglable)</code>
+  <br><i>CStyle[num]</i> - <code>(1 to 7) Changing style of crosshair</code>
+</blockquote>
+  <i>1 <b><code>(old crosshair)</code></b> 2 <b><code>(double crosshair)</code></b> 3 <b><code>(circle)</code></b> 4 <b><code>(static)</code></b> 5 <b><code>(shots dynamic only)</code></b> 6 <b><code>(dot)</code></b> 7 <b><code>(mixed [static cross] & [circle])</code></b></i>
+  <br>
+  <br>
+<blockquote>
+  <i>CDot[0 or 1]</i> - <code>turning off/on dot for crosshair (togglable)</code>
   <br><i>CT[0 or 1]</i> - <code>turning off/on T style crosshair (togglable)</code>
   <br><i>Outline[0 or 1] or COutline</i> - <code>turning off/on outline (togglable)</code>
   <br><i>CFF[0 or 1]</i> - <code>Friendly warning (togglable)</code>
@@ -32,7 +33,8 @@ This CFG will help you to customize ur crosshair in CS2.
   <br><i>CRecoil[0 or 1]</i> - <code>Follow recoil (togglable)</code>
   <br><i>CCol[num]</i> - <code>(0 to 5) Colors 0(red) 1(green) 2(yellow) 3(blue) 4(cyan) 5(custom)</code>
 
-  <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code></blockquote>
+  <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code>
+</blockquote>
 <h3>Settings for style 2</h3>
 <p>
   <blockquote>
