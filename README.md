@@ -14,6 +14,7 @@ This CFG will help you to customize ur crosshair in CS2.
   <br>Add <b>V</b> to command to get current value
 </blockquote>
 <h3>The Settings:</h3>
+<h6>(P.S VALVe added new parameter [<code>cl_crosshair_dynamic_spread_limit</code>], and idk wat is this param)</h6>
 <blockquote>
   <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code> <b>(After update "Rush Hour", VALVe added </b><code>_</code><b> before </b><code>gap</code><b>)</b>
   <br><i>CSize[num]</i> - <code>(0 to 10) Size/length of crosshair [+0.5 until 5]</code> <b>(After update "Rush Hour", VALVe changed </b><code>size</code><b> to </b><code>length</code><b>)</b>
