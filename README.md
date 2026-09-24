@@ -16,9 +16,9 @@ This CFG will help you to customize ur crosshair in CS2.
 <h3>The Settings:</h3>
 <h6>(P.S VALVe added new parameter [<code>cl_crosshair_dynamic_spread_limit</code>], and idk wat is this param)</h6>
 <blockquote>
-  <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code> <b>(After update "Rush Hour", VALVe added </b><code>_</code><b> before </b><code>gap</code><b>)</b>
-  <br><i>CSize[num]</i> - <code>(0 to 10) Size/length of crosshair [+0.5 until 5]</code> <b>(After update "Rush Hour", VALVe changed </b><code>size</code><b> to </b><code>length</code><b>)</b>
-  <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code>
+  <i>CGap[num]</i> - <code>(5 to -5) Gap between crosshair's lines</code> <i><b>!! Have been fixed !!</b></i>
+  <br><i>CSize[num]</i> - <code>(0 to 10) Size/length of crosshair [+0.5 until 5]</code> <i><b>!! Have been fixed !!</b></i>
+  <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code> <i><b>!! Have been fixed !!</b></i>
 
   <br><i>CStyle[num]</i> - <code>(1 to 7) Changing style of crosshair</code>
 </blockquote>
@@ -30,9 +30,7 @@ This CFG will help you to customize ur crosshair in CS2.
   <br><i>CT[0 or 1]</i> - <code>turning off/on T style crosshair (togglable)</code>
   <br><i>Outline[0 or 1] or COutline</i> - <code>turning off/on outline (togglable)</code>
   <br><i>CFF[0 or 1]</i> - <code>Friendly warning (togglable)</code>
-  <br><i>CGapUWV[0 or 1]</i> - <code>Use Weapon Value (togglable)</code>
   <br><i>CRecoil[0 or 1]</i> - <code>Follow recoil (togglable)</code>
-  <br><i>CCol[num]</i> - <code>(0 to 5) Colors 0(red) 1(green) 2(yellow) 3(blue) 4(cyan) 5(custom)</code>
 
   <br><i>SCSize[num]</i> - <code>(1 or 2) Sniper crosshair thickness(width)</code>
 </blockquote>
