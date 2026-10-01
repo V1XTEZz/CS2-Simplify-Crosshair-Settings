@@ -22,7 +22,7 @@ This CFG will help you to customize ur crosshair in CS2.
 
   <br><i>CStyle[num]</i> - <code>(1 to 9) Changing style of crosshair</code>
 </blockquote>
-  <i>1 <b><code>(old crosshair)</code></b> 2 <b><code>(double crosshair)</code></b> 3 <b><code>(circle)</code></b> 4 <b><code>(static)</code></b> 5 <b><code>(shots dynamic only)</code></b> 6 <b><code>(dot)</code></b> 7 <b><code>(mixed [static cross] & [dynamic quadrant])</code></b> 8 <b><code>Square</code></b> 9 <b><code>Static quadrant</code></b></i>
+  <i>1 <b><code>(old crosshair)</code></b> 2 <b><code>(double crosshair)</code></b> 3 <b><code>(circle)</code></b> 4 <b><code>(static)</code></b> 5 <b><code>(shots dynamic only)</code></b> 6 <b><code>(dot)</code></b> 7 <b><code>(mixed [static cross] & [dynamic quadrant])</code></b> 8 <b><code>(Square)</code></b> 9 <b><code>(Static quadrant)</code></b></i>
   <br>
   <br>
 <blockquote>
