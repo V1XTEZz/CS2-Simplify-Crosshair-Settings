@@ -1,4 +1,4 @@
-# CS2-Simplify-Crosshair-Settings-v3.1
+# CS2-Simplify-Crosshair-Settings-v3.2
 This CFG will help you to customize ur crosshair in CS2.
 
 <br>Русская версия: https://github.com/V1XTEZz/CS2-Simplify-Crosshair-Settings/blob/main/ruREADME.md
@@ -20,9 +20,9 @@ This CFG will help you to customize ur crosshair in CS2.
   <br><i>CSize[num]</i> - <code>(0 to 10) Size/length of crosshair [+0.5 until 5]</code> <i><b>!! Have been fixed !!</b></i>
   <br><i>CThickness[num]</i> / <i>CThicc[num]</i> - <code>(1, 2 & 3) Thickness/width of crosshair</code> <i><b>!! Have been fixed !!</b></i>
 
-  <br><i>CStyle[num]</i> - <code>(1 to 7) Changing style of crosshair</code>
+  <br><i>CStyle[num]</i> - <code>(1 to 9) Changing style of crosshair</code>
 </blockquote>
-  <i>1 <b><code>(old crosshair)</code></b> 2 <b><code>(double crosshair)</code></b> 3 <b><code>(circle)</code></b> 4 <b><code>(static)</code></b> 5 <b><code>(shots dynamic only)</code></b> 6 <b><code>(dot)</code></b> 7 <b><code>(mixed [static cross] & [circle])</code></b></i>
+  <i>1 <b><code>(old crosshair)</code></b> 2 <b><code>(double crosshair)</code></b> 3 <b><code>(circle)</code></b> 4 <b><code>(static)</code></b> 5 <b><code>(shots dynamic only)</code></b> 6 <b><code>(dot)</code></b> 7 <b><code>(mixed [static cross] & [dynamic quadrant])</code></b> 8 <b><code>Square</code></b> 9 <b><code>Static quadrant</code></b></i>
   <br>
   <br>
 <blockquote>
